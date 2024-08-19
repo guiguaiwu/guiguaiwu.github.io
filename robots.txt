@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+
+Sitemap: https://guiguaiwu.github.io/sitemap.xml
